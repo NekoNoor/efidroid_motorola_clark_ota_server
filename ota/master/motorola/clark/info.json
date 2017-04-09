@@ -1,5 +1,9 @@
 [
   {
+    "file": "https://raw.githubusercontent.com/creeperlwd/efidroid_motorola_clark_ota_server/master/builds/motorola/clark/otapackage-20170409-motorola_clark.zip",
+    "timestamp": 0
+  },
+  {
     "file": "https://raw.githubusercontent.com/creeperlwd/efidroid_motorola_clark_ota_server/master/builds/motorola/clark/otapackage-20170331-motorola_clark.zip",
     "timestamp": 0
   }
